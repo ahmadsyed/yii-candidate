@@ -1,0 +1,1675 @@
+2018/12/30 09:28:33 [error] [php] Undefined variable: model (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php:28)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(36): SiteController->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php (28)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (36)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 09:32:13 [error] [php] Undefined variable: model (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php:28)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(36): SiteController->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php (28)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (36)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 09:32:15 [error] [php] Undefined variable: model (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php:28)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(36): SiteController->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php (28)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (36)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 09:33:57 [error] [exception.CException] exception 'CException' with message 'Property "UploadForm.username" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(2760): CComponent->__get('username')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(2483): CHtml::resolveValue(Object(UploadForm), 'username')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1540): CHtml::activeInputField('text', Object(UploadForm), 'username', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(792): CHtml::activeTextField(Object(UploadForm), 'username', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php(29): CActiveForm->textField(Object(UploadForm), 'username')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(55): CController->render('upload', Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 20:15:45 [error] [php] Array to string conversion (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php:77)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/contact
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (77)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 20:16:37 [error] [php] Array to string conversion (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php:37)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (37)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 20:19:45 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 20:23:52 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 20:23:53 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 20:27:28 [error] [exception.CException] exception 'CException' with message 'Property "CFileValidator.extensions" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('extensions', 'xls, xlsx')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('file', Object(UploadForm), Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(547): CModel->getValidators()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(468): CModel->getSafeAttributeNames()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php(152): CModel->setAttributes(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(39): CComponent->__set('attributes', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:14:14 [error] [exception.CException] exception 'CException' with message 'Property "CFileValidator.extensions" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('extensions', 'xls, xlsx')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('file', Object(UploadForm), Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('file')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('file')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(UploadForm), 'file', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php(29): CActiveForm->labelEx(Object(UploadForm), 'file')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(53): CController->render('upload', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:15:58 [error] [exception.CException] exception 'CException' with message 'Property "CFileValidator.extensions" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('extensions', 'xls, xlsx')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('file', Object(UploadForm), Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('file')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('file')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(UploadForm), 'file', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php(29): CActiveForm->labelEx(Object(UploadForm), 'file')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(53): CController->render('upload', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:16:26 [error] [exception.CException] exception 'CException' with message 'Property "CFileValidator.extensions" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('extensions', 'xls, xlsx')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('file', Object(UploadForm), Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('file')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('file')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(UploadForm), 'file', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php(29): CActiveForm->labelEx(Object(UploadForm), 'file')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(53): CController->render('upload', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:16:26 [error] [exception.CException] exception 'CException' with message 'Property "CFileValidator.extensions" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('extensions', 'xls, xlsx')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('file', Object(UploadForm), Array, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('file')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('file')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(UploadForm), 'file', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php(29): CActiveForm->labelEx(Object(UploadForm), 'file')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(53): CController->render('upload', Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:26:06 [error] [exception.CException] exception 'CException' with message 'Property "UploadForm.file" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(472): CComponent->__set('file', '')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php(152): CModel->setAttributes(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(39): CComponent->__set('attributes', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:27:17 [error] [exception.CException] exception 'CException' with message 'Property "UploadForm.file" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(472): CComponent->__set('file', '')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php(152): CModel->setAttributes(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(39): CComponent->__set('attributes', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2018/12/30 21:46:18 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:46:18 [error] [php] Undefined variable: condiate (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php:45)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (45)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:46:43 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:50:25 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:50:25 [error] [php] Undefined variable: _FILE (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php:43)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (43)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:53:20 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2018/12/30 21:53:20 [error] [php] include(UploadedFile.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(43): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (43)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:51:37 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:51:38 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.file" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(162): CComponent->__set('file', NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(43): CActiveRecord->__set('file', NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2019/01/01 14:52:41 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:52:59 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:53:05 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:53:42 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:54:58 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:55:15 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:57:43 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 14:57:43 [error] [php] include(/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/phpexcelreader/JPhpExcelReader.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:435)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(47): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (47)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:08:32 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:08:33 [error] [php] include(PHPExcel_Shared_ZipStreamWrapper.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php(31): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(35): require()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(33): include()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(328): require()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(204): import()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(393): createComponent()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(103): CWebApplication->getComponent()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): CWebApplication->__get()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php (31)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (35)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php (33)
+2019/01/01 15:12:17 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:12:17 [error] [php] include(PHPExcel_Shared_ZipStreamWrapper.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php(31): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(35): require()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(33): include()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(328): require()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(204): import()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(393): createComponent()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(103): CWebApplication->getComponent()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): CWebApplication->__get()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php (31)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (35)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php (33)
+2019/01/01 15:15:07 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:15:07 [error] [php] include(PHPExcel_Shared_ZipStreamWrapper.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php(31): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(35): require()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(33): include()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(328): require()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(204): import()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(393): createComponent()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(103): CWebApplication->getComponent()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): CWebApplication->__get()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php (31)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (35)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php (33)
+2019/01/01 15:15:09 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:15:09 [error] [php] include(PHPExcel_Shared_ZipStreamWrapper.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php(31): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(35): require()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(33): include()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(328): require()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(204): import()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(393): createComponent()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModule.php(103): CWebApplication->getComponent()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): CWebApplication->__get()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Autoloader.php (31)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (35)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php (33)
+2019/01/01 15:17:21 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:17:21 [error] [exception.Exception] exception 'Exception' with message 'Could not open test.xlsx for reading! File does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/Excel2007.php:235
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel2007->canRead(Object(CUploadedFile))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile(Object(CUploadedFile))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(47): PHPExcel_IOFactory::load(Object(CUploadedFile))
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): Yexcel->readActiveSheet(Object(CUploadedFile))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2019/01/01 15:17:42 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:17:42 [error] [exception.Exception] exception 'Exception' with message 'Could not open test.xlsx for reading! File does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/Excel2007.php:235
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(268): PHPExcel_Reader_Excel2007->canRead(Object(CUploadedFile))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(191): PHPExcel_IOFactory::createReaderForFile(Object(CUploadedFile))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(47): PHPExcel_IOFactory::load(Object(CUploadedFile))
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(46): Yexcel->readActiveSheet(Object(CUploadedFile))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionImport()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/import')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=site/import
+---
+2019/01/01 15:28:57 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:28:57 [error] [php] Array to string conversion (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php:53)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (53)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:29:18 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:38:23 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:39:54 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:41:56 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:43:11 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:44:12 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:47:00 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:48:06 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:48:16 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:49:43 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:49:52 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:51:37 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:51:43 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:52:05 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:52:15 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:53:02 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:53:07 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:53:45 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:54:05 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:54:29 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 15:54:56 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (39)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 16:12:50 [error] [php] Undefined variable: model (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php:29)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): SiteController->renderFile()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): SiteController->renderPartial()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php(32): SiteController->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): SiteController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=site/index
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/site/upload.php (29)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (32)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 16:45:44 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (33)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 16:59:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "import".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:486
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(270): CController->missingAction('import')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/impo...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+---
+2019/01/01 17:00:13 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:00:32 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:337
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view
+---
+2019/01/01 17:00:43 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:337
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('View')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/View')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/View
+---
+2019/01/01 17:01:09 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('Index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/Inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/Index
+---
+2019/01/01 17:05:37 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('Index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/Inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/Index
+---
+2019/01/01 17:05:41 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('Index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/Inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/Index
+---
+2019/01/01 17:05:46 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:05:53 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:08:17 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:08:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "candidate/index".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidate/index')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidate/index
+---
+2019/01/01 17:08:30 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:08:30 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.name" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('name')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_view.php(13): CActiveRecord->__get('name')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(130): require('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CListView.php(291): CBaseController->renderFile('/Applications/X...', Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(181): CListView->renderItems()
+#6 [internal function]: CBaseListView->renderSection(Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(164): preg_replace_callback('/{(\\w+)}/', Array, '{summary}\n{sort...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/zii/widgets/CBaseListView.php(149): CBaseListView->renderContent()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(182): CBaseListView->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(128): CController->render('index', Array)
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:08:34 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:337
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view
+---
+2019/01/01 17:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "view".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:486
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(270): CController->missingAction('view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view
+---
+2019/01/01 17:17:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "upload".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:486
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(270): CController->missingAction('upload')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('upload')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('site/upload')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=site/upload
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:19:14 [error] [exception.CException] exception 'CException' with message 'CandidatesController cannot find the requested view "upload".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:881
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('upload', Array, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(77): CController->render('upload', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/impo...')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+---
+2019/01/01 17:21:03 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 17:22:56 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 17:22:56 [error] [exception.CException] exception 'CException' with message 'Property "UploadForm.id" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(71): CComponent->__get('id')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/impo...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/import
+---
+2019/01/01 17:23:28 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 17:23:28 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:337
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/import
+---
+2019/01/01 17:24:03 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 17:33:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(84): CandidatesController->loadModel('1')
+#1 [internal function]: CandidatesController->actionView('1')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view&id=1
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:33:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(84): CandidatesController->loadModel('1')
+#1 [internal function]: CandidatesController->actionView('1')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view&id=1
+---
+2019/01/01 17:34:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(84): CandidatesController->loadModel('25')
+#1 [internal function]: CandidatesController->actionView('25')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view&id=25
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 17:39:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(84): CandidatesController->loadModel('24')
+#1 [internal function]: CandidatesController->actionView('24')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view&id=24
+---
+2019/01/01 17:39:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "user".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:486
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(270): CController->missingAction('user')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('user')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/user')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/user
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/view&id=23
+---
+2019/01/01 17:39:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:186
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(84): CandidatesController->loadModel('23')
+#1 [internal function]: CandidatesController->actionView('23')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('view')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/view')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/view&id=23
+---
+2019/01/01 19:32:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "upload".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:486
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(270): CController->missingAction('upload')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('upload')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/uplo...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/upload
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/update&id=4
+---
+2019/01/01 19:35:24 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 19:35:24 [error] [php] Trying to get property of non-object (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:55)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (55)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 19:41:47 [error] [exception.CException] exception 'CException' with message 'Alias "zii.widgets.CGridView" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:330
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWidgetFactory.php(146): YiiBase::import('zii.widgets.CGr...', true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(CandidatesController), 'zii.widgets.CGr...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(181): CBaseController->createWidget('zii.widgets.CGr...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(15): CBaseController->widget('zii.widgets.CGr...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(171): CController->render('index', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 19:42:40 [error] [exception.CException] exception 'CException' with message 'Property "CGridView.itemView" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWidgetFactory.php(161): CComponent->__set('itemView', '_view')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(CandidatesController), 'zii.widgets.gri...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(181): CBaseController->createWidget('zii.widgets.gri...', Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/index.php(15): CBaseController->widget('zii.widgets.gri...', Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('index', Array, true)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(171): CController->render('index', Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionIndex()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('index')
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/inde...')
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/index
+---
+2019/01/01 19:45:02 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/SiteController.php (33)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 19:52:38 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 19:53:35 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 20:24:30 [error] [exception.CException] exception 'CException' with message 'Property "CStringValidator.0" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('0', 'required')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('length', Object(Candidates), 'email, city', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('full_name')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('full_name')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(Candidates), 'full_name', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php(23): CActiveForm->labelEx(Object(Candidates), 'full_name')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php(19): CController->renderPartial('_form', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('update', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(132): CController->render('update', Array)
+#16 [internal function]: CandidatesController->actionUpdate('4')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('update')
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/upda...')
+#29 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#30 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#31 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/view&id=4
+---
+2019/01/01 20:25:14 [error] [exception.CException] exception 'CException' with message 'Property "CStringValidator.0" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('0', 'required')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('length', Object(Candidates), 'email, city', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('full_name')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('full_name')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(Candidates), 'full_name', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php(23): CActiveForm->labelEx(Object(Candidates), 'full_name')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php(19): CController->renderPartial('_form', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('update', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(132): CController->render('update', Array)
+#16 [internal function]: CandidatesController->actionUpdate('4')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('update')
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/upda...')
+#29 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#30 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#31 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/view&id=4
+---
+2019/01/01 20:26:20 [error] [exception.CException] exception 'CException' with message 'Property "CStringValidator.0" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('0', 'required')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('length', Object(Candidates), 'email, city', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): CModel->getValidators('full_name')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): CModel->isAttributeRequired('full_name')
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): CHtml::activeLabelEx(Object(Candidates), 'full_name', Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php(23): CActiveForm->labelEx(Object(Candidates), 'full_name')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php(19): CController->renderPartial('_form', Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CBaseController->renderFile('/Applications/X...', Array, true)
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CController->renderPartial('update', Array, true)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(132): CController->render('update', Array)
+#16 [internal function]: CandidatesController->actionUpdate('4')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('update')
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/upda...')
+#29 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#30 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#31 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/view&id=4
+---
+2019/01/01 20:28:27 [error] [php] include(contact_details.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(310): class_exists()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(174): import()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): createValidator()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): Candidates->createValidators()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): Candidates->getValidators()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): Candidates->isAttributeRequired()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): activeLabelEx()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php(23): CActiveForm->labelEx()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CandidatesController->renderInternal()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CandidatesController->renderFile()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php(19): CandidatesController->renderPartial()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CandidatesController->renderInternal()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CandidatesController->renderFile()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CandidatesController->renderPartial()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(132): CandidatesController->render()
+#18 unknown(0): CandidatesController->actionUpdate()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#29 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#30 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#31 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#32 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php (23)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php (19)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (132)
+2019/01/01 20:28:51 [error] [php] include(contact_details.php): failed to open stream: No such file or directory (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/YiiBase.php(310): class_exists()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(174): import()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): createValidator()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): Candidates->createValidators()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(304): Candidates->getValidators()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/helpers/CHtml.php(1520): Candidates->isAttributeRequired()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/widgets/CActiveForm.php(600): activeLabelEx()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php(23): CActiveForm->labelEx()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CandidatesController->renderInternal()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CandidatesController->renderFile()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php(19): CandidatesController->renderPartial()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CandidatesController->renderInternal()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(872): CandidatesController->renderFile()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(785): CandidatesController->renderPartial()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(132): CandidatesController->render()
+#18 unknown(0): CandidatesController->actionUpdate()
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs()
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#23 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#24 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#25 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#26 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#27 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#28 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#29 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#30 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#31 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#32 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/_form.php (23)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/views/candidates/update.php (19)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (132)
+2019/01/01 20:36:38 [error] [exception.CException] exception 'CException' with message 'Property "CStringValidator.tooSmall" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(177): CComponent->__set('tooSmall', 'You must enter ...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(287): CValidator::createValidator('length', Object(Candidates), 'contact_details', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(260): CModel->createValidators()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(547): CModel->getValidators()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(468): CModel->getSafeAttributeNames()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php(152): CModel->setAttributes(Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(162): CComponent->__set('attributes', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(125): CActiveRecord->__set('attributes', Array)
+#8 [internal function]: CandidatesController->actionUpdate('4')
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs(Object(CandidatesController), Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(CandidatesController), Object(ReflectionMethod), Array)
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('update')
+#20 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/upda...')
+#21 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#22 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#23 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/update&id=4
+---
+2019/01/01 20:50:21 [error] [php] preg_match(): Unknown modifier 'f' (/Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CRegularExpressionValidator.php:53)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(159): CRegularExpressionValidator->validate()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(813): Candidates->validate()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(126): Candidates->save()
+#3 unknown(0): CandidatesController->actionUpdate()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CAction.php(109): ReflectionMethod->invokeArgs()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/update&id=4
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (126)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 20:51:25 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 20:51:50 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 20:52:45 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:04:07 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:04:07 [error] [php] Trying to get property of non-object (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:55)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (55)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:04:32 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:04:32 [error] [php] Trying to get property of non-object (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php:55)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (55)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:07:14 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:07:14 [error] [php] DOMDocument::loadHTMLFile(): htmlParseStartTag: invalid element name in /Applications/XAMPP/xamppfiles/temp/phpkz9gOd, line: 4 (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php:458)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(192): PHPExcel_Reader_HTML->load()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(47): load()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(55): Yexcel->readActiveSheet()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (458)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (153)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (192)
+2019/01/01 21:08:35 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:08:35 [error] [php] DOMDocument::loadHTMLFile(): htmlParseStartTag: invalid element name in /Applications/XAMPP/xamppfiles/temp/phpp6w4Wy, line: 4 (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php:458)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(192): PHPExcel_Reader_HTML->load()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(47): load()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(55): Yexcel->readActiveSheet()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (458)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (153)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (192)
+2019/01/01 21:09:10 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:09:10 [error] [exception.CException] exception 'CException' with message 'Property "Candidates.file" is not defined.' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('file')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CRequiredValidator.php(58): CActiveRecord->__get('file')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/validators/CValidator.php(201): CRequiredValidator->validateAttribute(Object(Candidates), 'file')
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CModel.php(159): CValidator->validate(Object(Candidates), NULL)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/ar/CActiveRecord.php(813): CModel->validate(NULL)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(66): CActiveRecord->save()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('import')
+#16 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('candidates/impo...')
+#17 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#18 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+HTTP_REFERER=http://localhost/yii/import-xl/index.php?r=candidates/import
+---
+2019/01/01 21:10:57 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:11:11 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
+2019/01/01 21:11:11 [error] [php] DOMDocument::loadHTMLFile(): htmlParseStartTag: invalid element name in /Applications/XAMPP/xamppfiles/temp/phpNEAq8n, line: 4 (/Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php:458)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php(192): PHPExcel_Reader_HTML->load()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Yexcel.php(47): load()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php(55): Yexcel->readActiveSheet()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): CandidatesController->actionImport()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(134): CandidatesController->runAction()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CInlineFilter.php(58): CandidatesController->filterAccessControl()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(291): CFilterChain->run()
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CandidatesController->runActionWithFilters()
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CandidatesController->run()
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php(13): CWebApplication->run()
+REQUEST_URI=/yii/import-xl/index.php?r=candidates/import
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (458)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/Reader/HTML.php (153)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/extensions/yexcel/Classes/PHPExcel/IOFactory.php (192)
+2019/01/01 21:19:35 [warning] [application] Failed to set unsafe attribute "file" of "UploadForm".
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/protected/controllers/CandidatesController.php (51)
+in /Applications/XAMPP/xamppfiles/htdocs/yii/import-xl/index.php (13)
